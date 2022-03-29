@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aiden
-- 👀 I’m interested in Robot and Ski 
+- 👋 Hi, I’m Aiden 
+- 👀 I’m interested in Robotics and Skiing
 - 🌱 I’m currently learning PID...
 - 💞️ I’m looking to collaborate on VEX
 - 📫 How to reach me aidensun1207@gmail.com
